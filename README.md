@@ -13,7 +13,6 @@ This edition delivers:
 It provides farmers and researchers a simple, fast, and reliable way to detect plant diseases and get treatment suggestions.
 
 ---
----
 
 ## 🧩 Technology Stack
 
