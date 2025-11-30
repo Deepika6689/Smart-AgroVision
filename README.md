@@ -114,8 +114,11 @@ All results are shown in a clean, interactive UI inside your web app.
 `Weather Tips` `More Plants` `Analytics Dashboard`
 ## 👩‍💻 Author
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFA9&center=false&vCenter=true&lines=Made+with+❤️+by+Deepika;Open+to+Contributions!;Always+Learning+🌙)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%">
+</p>
 
-
+### <span style="color:#00f2ea">Made with ❤️ by Deepika</span>  
+✨ Contributions & suggestions are always welcome!
 
 
