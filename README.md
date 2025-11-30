@@ -115,10 +115,8 @@ All results are shown in a clean, interactive UI inside your web app.
 ## 👩‍💻 Author
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Deepika%20⚡&width=800&height=150" />
 </p>
 
-### <span style="color:#00f2ea">Made with ❤️ by Deepika</span>  
-✨ Contributions & suggestions are always welcome!
-
+Made with ❤️ — Contributions welcome!
 
