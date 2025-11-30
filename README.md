@@ -113,8 +113,9 @@ All results are shown in a clean, interactive UI inside your web app.
 `Voice Output` `Offline Mode`  
 `Weather Tips` `More Plants` `Analytics Dashboard`
 
-##🙋‍♀️ Author
+## 👩‍💻 Author
 
-Made with ❤️ by Deepika
-
-Feel free to connect or contribute!
+Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  
+Made with ❤️ by **Deepika**  
+✨ Contributions are always welcome!
