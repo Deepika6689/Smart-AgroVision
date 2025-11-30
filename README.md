@@ -69,3 +69,13 @@ Smart-AgroVision/
 │── tsconfig.json # TypeScript config
 │── README.md # Documentation
 ```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/Deepika6689/Smart-AgroVision.git
+cd Smart-AgroVision
+```
