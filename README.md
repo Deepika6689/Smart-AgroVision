@@ -14,14 +14,6 @@ It provides farmers and researchers a simple, fast, and reliable way to detect p
 
 ---
 
-## 🚀 Live Application  
-<p align="center">
-  <a href="https://sweet-begonia-5e494f.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit-Live%20Demo-22c55e?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🧩 Technology Stack
 
