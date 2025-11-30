@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="900" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:00ff88&height=120&section=header&text=🌾%20Smart%20AgroVision&fontSize=40&fontColor=00ffcc&animation=fadeIn" />
 </p>
 
-<h1 align="center">🌾 Smart AgroVision</h1>
 <h3 align="center">Enhanced Plant Disease Detection</h3>
 
 
