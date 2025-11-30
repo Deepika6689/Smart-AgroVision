@@ -83,3 +83,35 @@ cd Smart-AgroVision
 ```bash
 npm install
 ```
+### 3️⃣ Run the Development Server
+```bash
+npm run dev
+```
+Local server will start at:
+```bash
+http://localhost:3000/
+```
+## 🧪 How It Works
+
+1️⃣ **Upload a plant leaf image**  
+Users can upload any clear picture of a plant leaf.
+
+2️⃣ **Image Preprocessing**  
+The image is automatically cleaned, resized, and normalized before being sent to the TensorFlow model.
+
+3️⃣ **Model Prediction**  
+The system returns:
+- ✅ **Disease Name**  
+- 📊 **Severity Level**  
+- 🐛 **Causes & Symptoms**  
+- 💊 **Recommended Treatments**
+
+4️⃣ **Instant Result Display**  
+All results are shown in a clean, interactive UI inside your web app.
+## 🚀 Upcoming Features
+
+▢ Voice-based disease explanation  
+▢ Offline TensorFlow Lite mode  
+▢ Weather-based suggestions  
+▢ More plant species & diseases  
+▢ Farmer analytics dashboard
