@@ -79,3 +79,7 @@ Smart-AgroVision/
 git clone https://github.com/Deepika6689/Smart-AgroVision.git
 cd Smart-AgroVision
 ```
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
