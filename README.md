@@ -112,3 +112,8 @@ All results are shown in a clean, interactive UI inside your web app.
 
 `Voice Output` `Offline Mode`  
 `Weather Tips` `More Plants` `Analytics Dashboard`
+🙋‍♀️ Author
+
+Made with ❤️ by Deepika
+
+Feel free to connect or contribute!
