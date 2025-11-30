@@ -1,0 +1,8 @@
+{
+  "name": "PlantDetectPro2",
+  "description": "An AI-powered plant disease detection system with 3D confidence visualization, a chat assistant, and a multilingual dashboard. This smart agriculture analytics platform helps identify plant diseases from leaf images and provides expert advice through a Gemini-powered chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
