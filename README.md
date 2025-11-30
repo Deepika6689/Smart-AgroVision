@@ -2,12 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:00ff88&height=120&section=header&text=🌾%20Smart%20AgroVision&fontSize=40&fontColor=00ffcc&animation=fadeIn" />
 </p>
 
-<h3 align="center">Enhanced Plant Disease Detection</h3>
-
-
-
-
-# 🌾 Smart AgroVision — Enhanced Plant Disease Detection  
+Enhanced Plant Disease Detection  
 ## 🌟 About the Project
 
 **Smart AgroVision** is an **enhanced and upgraded version** of the original *Plant Disease Detection* project.  
