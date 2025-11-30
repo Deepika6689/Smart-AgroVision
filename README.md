@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00ff9d&height=220&section=header&text=🌾%20Smart%20AgroVision&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">🌾 Smart AgroVision</h1>
 <h3 align="center">Enhanced Plant Disease Detection</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%">
-</p>
 
 
 # 🌾 Smart AgroVision — Enhanced Plant Disease Detection  
