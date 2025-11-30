@@ -49,4 +49,23 @@ This repository is the **improved version** of your earlier project:
 ---
 
 ## 📁 Project Structure
-
+```
+Smart-AgroVision/
+│── components/ # Reusable UI components
+│── hooks/ # Custom React hooks
+│── lib/ # Helpers, utilities, ML functions
+│── locales/ # Language files (for i18n)
+│── services/ # API / ML logic
+│── training/model/ # Trained ML model files
+│
+│── App.tsx # Root application file
+│── index.tsx # React entry point
+│── index.html # Base HTML file
+│
+│── metadata.json # AI/Model metadata config
+│── types.ts # TypeScript type definitions
+│── package.json # Project dependencies
+│── vite.config.ts # Vite configuration
+│── tsconfig.json # TypeScript config
+│── README.md # Documentation
+```
