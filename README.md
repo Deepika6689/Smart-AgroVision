@@ -114,9 +114,9 @@ All results are shown in a clean, interactive UI inside your web app.
 `Weather Tips` `More Plants` `Analytics Dashboard`
 ## 👩‍💻 Author
 
-<p align="left">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Deepika%20⚡&width=800&height=150" />
-</p>
+Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  
+Made with ❤️ by **Deepika**  
+✨ Contributions are always welcome!
 
-Made with ❤️ — Contributions welcome!
 
