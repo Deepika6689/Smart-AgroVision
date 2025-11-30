@@ -108,10 +108,7 @@ The system returns:
 
 4️⃣ **Instant Result Display**  
 All results are shown in a clean, interactive UI inside your web app.
-## 🚀 Upcoming Features
+## 🚀 Coming Soon
 
-▢ Voice-based disease explanation  
-▢ Offline TensorFlow Lite mode  
-▢ Weather-based suggestions  
-▢ More plant species & diseases  
-▢ Farmer analytics dashboard
+`Voice Output` `Offline Mode`  
+`Weather Tips` `More Plants` `Analytics Dashboard`
