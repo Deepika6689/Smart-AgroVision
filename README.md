@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🌾%20Smart%20AgroVision%20—%20Enhanced%20Plant%20Disease%20Detection&width=1000&height=150" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFA9&center=true&vCenter=true&lines=🌾+Smart+AgroVision;Enhanced+Plant+Disease+Detection)
+
 
 # 🌾 Smart AgroVision — Enhanced Plant Disease Detection  
 ## 🌟 About the Project
