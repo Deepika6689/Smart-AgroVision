@@ -1,4 +1,13 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFA9&center=true&vCenter=true&lines=🌾+Smart+AgroVision;Enhanced+Plant+Disease+Detection)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%">
+</p>
+
+<h1 align="center">🌾 Smart AgroVision</h1>
+<h3 align="center">Enhanced Plant Disease Detection</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%">
+</p>
 
 
 # 🌾 Smart AgroVision — Enhanced Plant Disease Detection  
