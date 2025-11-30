@@ -114,10 +114,8 @@ All results are shown in a clean, interactive UI inside your web app.
 `Weather Tips` `More Plants` `Analytics Dashboard`
 ## 👩‍💻 Author
 
-<p align="left">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Deepika&width=700&height=120" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFA9&center=false&vCenter=true&lines=Made+with+❤️+by+Deepika;Open+to+Contributions!;Always+Learning+🌙)
 
-Made with ❤️ — Contributions welcome!
+
 
 
