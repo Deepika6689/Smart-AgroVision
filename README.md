@@ -112,10 +112,10 @@ All results are shown in a clean, interactive UI inside your web app.
 
 `Voice Output` `Offline Mode`  
 `Weather Tips` `More Plants` `Analytics Dashboard`
-
 ## 👩‍💻 Author
 
-<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="60px">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 Made with ❤️ by **Deepika**  
-🤝 Feel free to connect or contribute!
+Always improving — contributions welcome!
+
