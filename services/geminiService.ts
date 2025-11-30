@@ -3,16 +3,9 @@ import { GoogleGenAI, Chat } from "@google/genai";
 import { DetectionResult, User, Language } from '../types';
 import emailjs from '@emailjs/browser';
 
-let API_KEY = '';
-try {
-  // Safely attempt to access process.env.API_KEY
-  // This try-catch block prevents the app from crashing in environments where 'process' is not defined
-  if (typeof process !== 'undefined' && process.env) {
-    API_KEY = process.env.API_KEY || '';
-  }
-} catch (e) {
-  console.warn("Environment variable process.env.API_KEY is not accessible. App will run in simulation mode.");
-}
+// Load API key from Vite environment
+const API_KEY = import.meta.env.VITE_GEMINI_API_KEY || "";
+
 
 // Initialize AI only if we have a key (or empty string, handled in calls)
 const ai = new GoogleGenAI({ apiKey: API_KEY });
@@ -109,7 +102,7 @@ export const getMockDetection = async (imageFile: File, imageBase64: string, loc
     if (!API_KEY) throw new Error("Missing API Key");
 
     const response = await ai.models.generateContent({
-        model: 'gemini-2.5-flash',
+        model: 'gemini-2.0-flash',
         contents: { parts: [imagePart, textPart] },
         config: {
             responseMimeType: 'application/json',
@@ -178,7 +171,7 @@ export const generateEmailReport = async (report: DetectionResult, user: User, l
         if (!API_KEY) throw new Error("Missing API Key");
 
         const response = await ai.models.generateContent({
-            model: 'gemini-2.5-flash',
+            model: 'gemini-2.0-flash',
             contents: prompt,
             config: {
                 responseMimeType: 'application/json',
@@ -282,7 +275,7 @@ export const createChat = (language: Language, diseaseContext: string): Chat => 
   }
 
   return ai.chats.create({
-    model: 'gemini-2.5-flash',
+    model: 'gemini-2.0-flash',
     config: {
       systemInstruction: systemInstruction,
     },
