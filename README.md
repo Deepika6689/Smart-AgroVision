@@ -114,8 +114,10 @@ All results are shown in a clean, interactive UI inside your web app.
 `Weather Tips` `More Plants` `Analytics Dashboard`
 ## 👩‍💻 Author
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<p align="left">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Deepika&width=700&height=120" />
+</p>
 
-Made with ❤️ by **Deepika**  
-Always improving — contributions welcome!
+Made with ❤️ — Contributions welcome!
+
 
