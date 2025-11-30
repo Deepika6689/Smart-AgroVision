@@ -115,7 +115,7 @@ All results are shown in a clean, interactive UI inside your web app.
 
 ## 👩‍💻 Author
 
-Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  
+<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="60px">
+
 Made with ❤️ by **Deepika**  
-✨ Contributions are always welcome!
+🤝 Feel free to connect or contribute!
