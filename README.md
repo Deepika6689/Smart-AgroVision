@@ -13,7 +13,13 @@ This edition delivers:
 It provides farmers and researchers a simple, fast, and reliable way to detect plant diseases and get treatment suggestions.
 
 ---
-
+## 🚀 Live Application  
+<p align="center">
+  <a href="https://jovial-phoenix-7c8303.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-Live%20Demo-22c55e?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+---
 ## 🧩 Technology Stack
 
 <p align="center">
