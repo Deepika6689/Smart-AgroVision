@@ -19,7 +19,7 @@ It provides farmers and researchers a simple, fast, and reliable way to detect p
     <img src="https://img.shields.io/badge/Visit-Live%20Demo-22c55e?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
----
+
 ## 🧩 Technology Stack
 
 <p align="center">
