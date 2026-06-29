@@ -1,5 +1,5 @@
 # 🌾 Smart AgroVision — Enhanced Plant Disease Detection  
-## 🌟 About the Project
+## 🌟 About the Project::::
 
 **Smart AgroVision** is an **enhanced and upgraded version** of the original *Plant Disease Detection* project.  
 This edition delivers:
